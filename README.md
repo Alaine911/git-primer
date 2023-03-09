@@ -1,5 +1,5 @@
 # git-primer
-Git basics day 1 Webinar
+Git basics Webinar
 This is my new README file
 another edit
 
